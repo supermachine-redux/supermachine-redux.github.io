@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1699px" height="795px" viewBox="0 0 1699 795" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Logo straight@1x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="498" y="174" width="96" height="171"></rect>
+        <filter x="-34.4%" y="-19.3%" width="168.8%" height="138.6%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="31.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="3" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <rect id="path-3" x="693" y="159" width="132" height="183"></rect>
+        <filter x="-25.0%" y="-18.0%" width="150.0%" height="136.1%" filterUnits="objectBoundingBox" id="filter-4">
+            <feGaussianBlur stdDeviation="31.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="3" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="75.7403648%" y1="30.466296%" x2="24.5070658%" y2="62.3845987%" id="linearGradient-5">
+            <stop stop-color="#EEEEEE" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Logo-straight" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-3-Copy">
+            <g id="Rectangle-Copy-8">
+                <use fill="#50E3C2" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+            </g>
+            <g id="Rectangle-Copy-9">
+                <use fill="#50E3C2" fill-rule="evenodd" xlink:href="#path-3"></use>
+                <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+            </g>
+            <polygon id="Path-4-Copy-4" fill="url(#linearGradient-5)" points="484.294576 384 656.111457 523.375011 204 794.095422 1.42108547e-14 596.44108"></polygon>
+            <text id="Super-machine" fill="#283D3B" font-family="Phosphate-Solid, Phosphate" font-size="195" font-weight="normal" line-spacing="144.3" letter-spacing="18.9000006">
+                <tspan x="915" y="288"> </tspan>
+                <tspan x="972.900001" y="288">SUPER</tspan>
+                <tspan x="915" y="432.3">MACHINE</tspan>
+            </text>
+            <path d="M656.111457,-1.27897692e-13 L913.83518,97.9291828 L825.662705,384.925973 L656.111457,523.375011 L656.111457,-1.27897692e-13 Z M724.005368,191.851713 L715.15053,327.185088 L741.260118,320.354242 L745.76138,275.0979 L758.819245,308.584813 L780.478219,270.054685 L774.394259,311.068262 L799.988496,303.408898 L820.10563,198.266563 L796.336182,197.338615 L767.027552,241.953268 L748.629758,194.154133 L724.005368,191.851713 Z" id="Combined-Shape-Copy-13" fill="#283D3B"></path>
+            <path d="M399,104.033804 L656.111457,-2.13162821e-13 L656.111457,525.162709 L483.643056,384 L399,104.033804 Z M520.515984,278.066558 L526.423983,314.398418 C528.738184,315.936511 531.257503,317.433215 533.982945,318.886459 C536.344125,320.230748 539.030611,321.595474 542.043535,322.978623 C545.056428,324.365332 548.289783,325.60815 551.746627,326.699491 C557.486184,328.494373 562.337955,328.914717 566.313486,327.923554 C570.315034,326.864643 573.501732,324.686357 575.872965,321.387948 C578.269689,318.02017 579.904217,313.699639 580.768963,308.446219 C581.649245,303.149699 581.843432,297.296515 581.339835,290.918883 C580.859129,284.831144 579.766223,279.245594 578.052056,274.188065 C576.325897,269.165128 574.334179,264.653709 572.076112,260.656476 C569.805196,256.697377 567.361417,253.187715 564.746016,250.124385 C562.119668,247.094925 559.71727,244.451233 557.541907,242.183652 C555.35993,239.936963 553.501791,237.989476 551.969773,236.333676 C550.434319,234.688727 549.605028,233.331839 549.48444,232.254853 C549.348779,231.043243 549.546162,230.101827 550.077315,229.428656 C550.609429,228.752923 551.265929,228.277398 552.046661,228.002688 C552.828122,227.726243 553.671862,227.549958 554.577742,227.474377 C555.484129,227.397793 556.242181,227.356099 556.85167,227.349827 C557.969514,227.337566 559.043947,227.394144 560.074725,227.520267 C561.105712,227.646341 562.035102,227.773716 562.862832,227.902504 C563.89434,228.028568 564.82416,228.156043 565.65223,228.285037 L562.037095,188.771691 C559.778755,188.607763 557.468415,188.450571 555.106137,188.299958 C553.075016,188.251592 550.778071,188.198018 548.215705,188.138943 C545.654974,188.078928 543.114992,188.185592 540.596872,188.455527 C535.779504,188.95751 531.365493,190.2227 527.36237,192.226371 C523.381185,194.17704 520.067863,196.757448 517.423082,199.961411 C514.800975,203.104525 512.977923,206.896664 511.949325,211.34819 C510.937114,215.752914 510.900776,220.781166 511.828075,226.468103 C512.656724,231.550047 514.081606,236.093897 516.095158,240.123274 C518.098523,244.184041 520.395543,247.908336 522.985173,251.300577 C525.563,254.730167 528.219491,257.83728 530.956335,260.617669 C533.683356,263.429908 536.225219,266.031824 538.584067,268.416847 C540.935707,270.825093 542.89454,273.010264 544.462997,274.96455 C546.027338,276.93168 546.912903,278.77493 547.122822,280.484698 C547.671842,284.956399 545.763177,286.79404 541.402348,285.988173 C538.940819,285.527077 536.478809,284.875876 534.014737,284.038887 C531.551046,283.203606 529.328792,282.295276 527.346824,281.316262 C525.005386,280.393312 522.72889,279.308912 520.515984,278.066558 Z" id="Combined-Shape-Copy-14" fill="#000000"></path>
+        </g>
+    </g>
+</svg>

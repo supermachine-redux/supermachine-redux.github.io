@@ -16,7 +16,7 @@ GEM
     colorator (1.1.0)
     commonmarker (0.17.13)
       ruby-enum (~> 0.5)
-    concurrent-ruby (1.1.8)
+    concurrent-ruby (1.1.9)
     dnsruby (1.61.5)
       simpleidn (~> 0.1)
     em-websocket (0.5.2)
@@ -262,6 +262,7 @@ GEM
     unf_ext (0.0.7.7)
     unicode-display_width (1.7.0)
     wdm (0.1.1)
+    webrick (1.7.0)
     zeitwerk (2.4.2)
 
 PLATFORMS
@@ -275,6 +276,7 @@ DEPENDENCIES
   tzinfo (~> 1.2)
   tzinfo-data
   wdm (~> 0.1.0)
+  webrick
 
 BUNDLED WITH
    2.2.15
