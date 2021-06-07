@@ -16,9 +16,9 @@
 title: Supermachine
 email: peter@supermachine.io
 description: >- # this means to ignore newlines until "baseurl:"
-  We make working less work
-baseurl: "" # the subpath of your site, e.g. /blog
-url: https://supermachine-redux.github.io/supermachine-site/ # the base hostname & protocol for your site, e.g. http://example.com
+  Because working shouldn't feel like work
+baseurl: "/supermachine-site" # the subpath of your site, e.g. /blog
+url: https://supermachine-redux.github.io # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: pdswanii
 github_username: pdswan
 
