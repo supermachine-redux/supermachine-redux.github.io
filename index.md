@@ -6,4 +6,4 @@ layout: home
 ---
 
 <img src="assets/images/logos/svg/Logo stacked@1x.svg" alt="Supermachine" />
-<h1 style="text-align: center;">Because working shouldn't feel like work.</h1>
+<h1 style="text-align: center;">Coming soon.</h1>
